@@ -1,0 +1,14 @@
+body{
+    background-color: background: rgb(9,150,9);
+    background: linear-gradient(90deg, rgba(9,150,9,1) 4%, rgba(0,255,45,1) 95%, rgba(118,231,54,1) 99%, rgba(242,242,242,1) 99%);
+    }
+  
+  .amazonia{
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 40%;
+    
+  }
+   p{
+     text-align: justify;
+   }
